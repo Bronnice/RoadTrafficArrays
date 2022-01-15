@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadTraffic_Arrays", "RoadTraffic_Arrays.csproj", "{6EE69AC2-41B7-4B74-8D1E-2C1BEAE5134B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EE69AC2-41B7-4B74-8D1E-2C1BEAE5134B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE69AC2-41B7-4B74-8D1E-2C1BEAE5134B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE69AC2-41B7-4B74-8D1E-2C1BEAE5134B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE69AC2-41B7-4B74-8D1E-2C1BEAE5134B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09CA7589-AEBF-43BB-AA44-F669FF1E3A1F}
+	EndGlobalSection
+EndGlobal
